@@ -1,0 +1,4 @@
+username=your_email@example.com
+password=your_password
+domain=your_company_domain
+base_uri=https://api.inv.bg
