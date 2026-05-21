@@ -1,6 +1,6 @@
 # Invoice API Test Framework
 
-This project is an automated API testing framework built to validate the endpoints of the **Inv.bg API** (specifically focusing on the `v3` endpoints). It utilizes modern Java testing tools to ensure robust, repeatable, and easily maintainable API integration tests.
+This project is an automated API testing framework built to validate the endpoints of the **Invoice API** (specifically focusing on the `v3` endpoints). It utilizes modern Java testing tools to ensure robust, repeatable, and easily maintainable API integration tests.
 
 ## 🛠️ Technology Stack
 
@@ -57,7 +57,7 @@ Before running the tests, you must configure your API credentials.
 username=your_email@example.com
 password=your_password
 domain=your_company_domain
-base_uri=https://api.inv.bg
+base_uri=https://base_uri.something
 ```
 
 *Note: The `base_uri` should point to the production or staging API environment as required (default is `https://api.inv.bg`).*
